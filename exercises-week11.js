@@ -122,7 +122,7 @@ const car5 = {
     YearReleased: 2018
 };  
 
-## Then log each object to the console to see their properties.
+// Then log each object to the console to see their properties.
 
 console.log(player1.Name);
 console.log(player2.Position);
